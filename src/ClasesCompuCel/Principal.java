@@ -10,6 +10,8 @@ public class Principal {
 		// TODO Auto-generated method stub
 
 		// Declaracion de variables
+		
+		System.out.println("nuevo mensaje para mostrar en consola");
 		Scanner lectura = null;
 
 		String clave;
